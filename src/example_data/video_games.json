@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who&#039;s the voice actor for Thrall in the Warcraft game series?",
+        "correct_answer": "Chris Metzen",
+        "incorrect_answers": [
+          "Ben Affleck",
+          "Jason Derulo",
+          "Jim Carrey"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
+        "correct_answer": "Rahm Kota",
+        "incorrect_answers": [
+          "Ahsoka Tano",
+          "Kazdan Paratus",
+          "Kento Marek"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many playable worlds were there?",
+        "correct_answer": "14",
+        "incorrect_answers": [
+          "13",
+          "16",
+          "11"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",
+        "correct_answer": "Tetris",
+        "incorrect_answers": [
+          "Jenga",
+          "Boulder Dash",
+          "Puzzled"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which game was the first time Mario was voiced by Charles Martinet?",
+        "correct_answer": "Mario&#039;s Game Gallery",
+        "incorrect_answers": [
+          "Super Mario 64",
+          "Mario Tennis",
+          "Dr. Mario 64"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The default playermodel of Garry&#039;s Mod is this Half Life 2 character.",
+        "correct_answer": "Isaac Kleiner",
+        "incorrect_answers": [
+          "G-Man",
+          "Alyx Vance",
+          "Gordon Freeman"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Minecraft, which two items must be combined to craft a torch?",
+        "correct_answer": "Stick and Coal",
+        "incorrect_answers": [
+          "Stick and Fire",
+          "Wood and Coal",
+          "Wood and Fire"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Final Fantasy VI&quot;, what is the name of (summoned) Gilgamesh&#039;s weakest attack?",
+        "correct_answer": "Excalipoor",
+        "incorrect_answers": [
+          "Excalibore",
+          "Excalisnore",
+          "Excalisore"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+        "correct_answer": "Professor Layton",
+        "incorrect_answers": [
+          "Persona",
+          "Etrian Odyssey",
+          "Sam &amp; Max"
+        ]
+      },
+      {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
+        "correct_answer": "Stairs",
+        "incorrect_answers": [
+          "Two-Story Building",
+          "Rocket Launcher",
+          "Stage Play"
+        ]
+      }
+    ]
+  }

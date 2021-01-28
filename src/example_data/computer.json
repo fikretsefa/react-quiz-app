@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the name of the security vulnerability found in Bash in 2014?",
+        "correct_answer": "Shellshock",
+        "incorrect_answers": [
+          "Heartbleed",
+          "Bashbug",
+          "Stagefright"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does GHz stand for?",
+        "correct_answer": "Gigahertz",
+        "incorrect_answers": [
+          "Gigahotz",
+          "Gigahetz",
+          "Gigahatz"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does AD stand for in relation to Windows Operating Systems? ",
+        "correct_answer": "Active Directory",
+        "incorrect_answers": [
+          "Alternative Drive",
+          "Automated Database",
+          "Active Department"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+        "correct_answer": "Final",
+        "incorrect_answers": [
+          "Static",
+          "Private",
+          "Public"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "On Twitter, what is the character limit for a Tweet?",
+        "correct_answer": "140",
+        "incorrect_answers": [
+          "120",
+          "160",
+          "100"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What internet protocol was documented in RFC 1459?",
+        "correct_answer": "IRC",
+        "incorrect_answers": [
+          "HTTP",
+          "HTTPS",
+          "FTP"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+        "correct_answer": "Injection ",
+        "incorrect_answers": [
+          "Broken Authentication",
+          "Cross-Site Scripting",
+          "Insecure Direct Object References"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How long is an IPv6 address?",
+        "correct_answer": "128 bits",
+        "incorrect_answers": [
+          "32 bits",
+          "64 bits",
+          "128 bytes"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+        "correct_answer": "Cherry MX Blue",
+        "incorrect_answers": [
+          "Cherry MX Black",
+          "Cherry MX Red",
+          "Cherry MX Brown"
+        ]
+      },
+      {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+        "correct_answer": "Secret sharing scheme",
+        "incorrect_answers": [
+          "Hashing algorithm",
+          "Asymmetric encryption",
+          "Stream cipher"
+        ]
+      }
+    ]
+  }

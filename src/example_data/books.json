@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+        "correct_answer": "1984",
+        "incorrect_answers": [
+          "The Old Man and the Sea",
+          "Catcher and the Rye",
+          "To Kill a Mockingbird"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the book &quot;The Martian&quot;, how long was Mark Watney trapped on Mars (in Sols)?",
+        "correct_answer": "549 Days",
+        "incorrect_answers": [
+          "765 Days",
+          "401 Days",
+          "324 Days"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following is the world&#039;s best-selling book?",
+        "correct_answer": "The Lord of the Rings",
+        "incorrect_answers": [
+          "The Little Prince",
+          "Harry Potter and the Philosopher&#039;s Stone",
+          "The Da Vinci Code"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+        "correct_answer": "Ira Levin",
+        "incorrect_answers": [
+          "Stephen King",
+          "Robert Bloch",
+          "Mary Shelley"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Where does the book &quot;The Silence of the Lambs&quot; get its title from?",
+        "correct_answer": "The main character&#039;s trauma in childhood",
+        "incorrect_answers": [
+          "The relation it has with killing the innocents",
+          "The villain&#039;s favourite meal",
+          "The voice of innocent people being shut by the powerful"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?",
+        "correct_answer": "Procompsognathus",
+        "incorrect_answers": [
+          "Dilophosaurus",
+          "Tyrannosaurus Rex",
+          "Velociraptor"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The book &quot;Fahrenheit 451&quot; was written by whom?",
+        "correct_answer": "Ray Bradbury",
+        "incorrect_answers": [
+          "R. L. Stine",
+          "Wolfgang Amadeus Mozart",
+          "Stephen King"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which is NOT a book in the Harry Potter Series?",
+        "correct_answer": "The House Elf",
+        "incorrect_answers": [
+          "The Chamber of Secrets",
+          "The Prisoner of Azkaban",
+          "The Deathly Hallows"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",
+        "correct_answer": "The Prince and the Pauper",
+        "incorrect_answers": [
+          "Hamlet",
+          "Wealthy Boy and the Schmuck",
+          "A Modern Twain Story"
+        ]
+      },
+      {
+        "category": "Entertainment: Books",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+        "correct_answer": "Anna Karenina",
+        "incorrect_answers": [
+          "Notes from the Underground",
+          "Crime and Punishment",
+          "The Brothers Karamazov"
+        ]
+      }
+    ]
+  }
